@@ -1,0 +1,14 @@
+{
+  "name": "Manananggal",
+  "ability": "Each night*, choose a player: they die. Each night you choose a player to guard your torso. They register as the demon.",
+  "type": "demon",
+  "icon": "Manananggal.png",
+  "first_night": false,
+  "other_nights": true,
+  "reminders": [
+    "DEAD",
+    "LOWER TORSO"
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tiyanak",
+  "ability": "Choose a player. If that player nominates you, they die.",
+  "type": "outsider",
+  "icon": "Tiyanak.png",
+  "first_night": true,
+  "other_nights": false,
+  "reminders": [
+    "CHOSEN"
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

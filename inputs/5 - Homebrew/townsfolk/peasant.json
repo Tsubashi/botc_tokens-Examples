@@ -1,0 +1,12 @@
+{
+  "name": "Peasant",
+  "ability": "You are a townsfolk. You have no special abilities.",
+  "type": "townsfolk",
+  "icon": "Peasant.png",
+  "first_night": false,
+  "other_nights": false,
+  "reminders": [
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

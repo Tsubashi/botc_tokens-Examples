@@ -1,0 +1,12 @@
+{
+  "name": "Laughingstock",
+  "ability": "After nominating a player, if that player makes you laugh, the execution will not kill them.",
+  "type": "townsfolk",
+  "icon": "Laughingstock.png",
+  "first_night": false,
+  "other_nights": false,
+  "reminders": [
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

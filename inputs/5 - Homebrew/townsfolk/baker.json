@@ -1,0 +1,12 @@
+{
+  "name": "Baker",
+  "ability": "Once per day, bake a loaf of bread.",
+  "type": "townsfolk",
+  "icon": "Baker.png",
+  "first_night": false,
+  "other_nights": false,
+  "reminders": [
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

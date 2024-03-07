@@ -1,0 +1,13 @@
+{
+  "name": "Tutor",
+  "ability": "Once per game, at night, you may guess the peasant. If you guess correctly, they become another townsfolk.",
+  "type": "townsfolk",
+  "icon": "Tutor.png",
+  "first_night": false,
+  "other_nights": true,
+  "reminders": [
+    "NO ABILITY"
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

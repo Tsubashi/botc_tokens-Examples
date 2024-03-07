@@ -1,0 +1,13 @@
+{
+  "name": "Villager",
+  "ability": "Each day you may publicly declare a player to be your 'friend'. If they accept, you wake with them at night.",
+  "type": "townsfolk",
+  "icon": "Villager.png",
+  "first_night": false,
+  "other_nights": true,
+  "reminders": [
+    "FRIEND"
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}
