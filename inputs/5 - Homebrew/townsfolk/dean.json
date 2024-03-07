@@ -1,0 +1,12 @@
+{
+  "name": "Dean",
+  "ability": "Once per game, you may reject another player's thesis.",
+  "type": "townsfolk",
+  "icon": "Dean.png",
+  "first_night": false,
+  "other_nights": false,
+  "reminders": [
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

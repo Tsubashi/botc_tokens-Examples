@@ -1,0 +1,12 @@
+{
+  "name": "Mystic",
+  "ability": "You are mad that you are not the mystic. During the first night, you may look at the grimoire.",
+  "type": "townsfolk",
+  "icon": "Mystic.png",
+  "first_night": true,
+  "other_nights": false,
+  "reminders": [
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

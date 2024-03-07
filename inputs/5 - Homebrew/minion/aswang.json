@@ -1,0 +1,12 @@
+{
+  "name": "Aswang",
+  "ability": "You register as a demon.",
+  "type": "minion",
+  "icon": "Aswang.png",
+  "first_night": false,
+  "other_nights": false,
+  "reminders": [
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}

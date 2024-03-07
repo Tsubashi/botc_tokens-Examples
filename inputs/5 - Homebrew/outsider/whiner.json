@@ -1,0 +1,12 @@
+{
+  "name": "Whiner",
+  "ability": "You know one of the minions. [+1 Minion]",
+  "type": "outsider",
+  "icon": "Whiner.png",
+  "first_night": false,
+  "other_nights": true,
+  "reminders": [
+  ],
+  "affects_setup": true,
+  "home_script": "5 - Homebrew"
+}

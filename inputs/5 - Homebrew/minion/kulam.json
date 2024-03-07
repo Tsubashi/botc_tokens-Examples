@@ -1,0 +1,14 @@
+{
+  "name": "Kulam",
+  "ability": "Each night, choose two players. At evening, the first player must nominate the second, if possible, or die during the night.",
+  "type": "minion",
+  "icon": "Kulam.png",
+  "first_night": false,
+  "other_nights": true,
+  "reminders": [
+    "NOMINATOR",
+    "NOMINATEE"
+  ],
+  "affects_setup": false,
+  "home_script": "5 - Homebrew"
+}
