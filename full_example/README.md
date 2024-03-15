@@ -42,7 +42,7 @@ files in the `inputs` directory and its subdirectories, though, so you can organ
 With the directory structure in place, it is time to start populating it with roles. For each role you would like to 
 add, create a json file with the following structure (minus the comments, of course) in the appropriate folder:
 
-```JSON
+```JSON5
 {
   "name": "Example Role",                 // The name that will be below the icon on the token.
   "ability": "You are an example role.",  // This ability text will show up above the icon.
