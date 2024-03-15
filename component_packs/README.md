@@ -1,13 +1,21 @@
-# Examples
-![An example of tokens made by this utility](example.jpg)
-This is an example of what the [botc_tokens](https://github.com/Tsubashi/botc_tokens) utility can do. After populating 
-the `inputs` directory with roles of my own creation, the remaining directories were created using the following 
-commands:
+# Component Packs
+In this folder you will find a number of pre-build component packs that you can use in your projects. While we have
+tried to make each consistent and usable as they are, feel free to use them as starting points and modify them to fit
+you own ideas. Each pack is made from original work and is licensed under 
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+## How to use
+When running the `create` command, you can specify the pack you want to use by adding the `--components` option. 
+For example:
 ```bash
-botc_tokens create example/inputs example/tokens --component-dir example/components
-botc_tokens group example/example_script.json --token-dir example/tokens --output-dir example/printables
+botc_tokens create --components=pack_name
 ```
 
-Yes, these roles are silly. No, I wouldn't advise using them in a game. Still, they demonstrate what you can expect
-when using the utility with your own roles.
+Where `pack_name` is the name of the pack you want to use. If you don't specify a pack, the default pack will be used.
+
+## Available packs
+| Name         | Preview |
+|--------------|---------|
+| Alternate 1  | ![Alternate 1](Alternate1.png) |
+| Alternate 2  | ![Alternate 2](Alternate2.png) |
+| Alternate 3  | ![Alternate 3](Alternate3.png) |
