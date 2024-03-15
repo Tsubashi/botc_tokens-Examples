@@ -1,0 +1,11 @@
+{
+  "name": "The Veil",
+  "ability": "All players start the game not knowing their character or alignment",
+  "type": "fabled",
+  "icon": "The_Veil.png",
+  "first_night": false,
+  "other_nights": false,
+  "reminders": [],
+  "affects_setup": false,
+  "home_script": "99 - Homebrew"
+}
