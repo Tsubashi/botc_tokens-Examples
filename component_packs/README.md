@@ -5,13 +5,14 @@ you own ideas. Each pack is made from original work and is licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## How to use
-When running the `create` command, you can specify the pack you want to use by adding the `--components` option. 
-For example:
+To use a pack, first download the matching zip file. From there, you can use the `botc_tokens` command line tool to 
+create tokens using the pack. When running the `create` command, you can specify the pack you want to use by adding 
+the `--components` option. For example:
 ```bash
-botc_tokens create --components=pack_name
+botc_tokens create --components=/path/to/downloded/pack.zip
 ```
-
-Where `pack_name` is the name of the pack you want to use. If you don't specify a pack, the default pack will be used.
+Make sure to replace `/path/to/downloded/pack.zip` with the path of the pack you downloaded. 
+If you don't specify a pack, the default pack will be used.
 
 ## Available packs
 | Name         | Preview |
