@@ -20,3 +20,5 @@ If you don't specify a pack, the default pack will be used.
 | Alternate 1  | ![Alternate 1](Alternate1.png) |
 | Alternate 2  | ![Alternate 2](Alternate2.png) |
 | Alternate 3  | ![Alternate 3](Alternate3.png) |
+| Alternate 4  | ![Alternate 4](Alternate4.png) |
+| Alternate 5  | ![Alternate 5](Alternate5.png) |
